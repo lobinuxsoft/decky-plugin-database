@@ -344,3 +344,6 @@
 [submodule "plugins/decky-multi-user"]
 	path = plugins/decky-multi-user
 	url = https://github.com/nikitaclicks/decky-multi-user
+[submodule "plugins/CapyDeploy"]
+	path = plugins/CapyDeploy
+	url = https://github.com/lobinuxsoft/decky-capydeploy.git

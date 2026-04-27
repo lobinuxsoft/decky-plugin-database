@@ -359,3 +359,6 @@
 [submodule "plugins/decky-nonsteam-badges"]
 	path = plugins/decky-nonsteam-badges
 	url = https://github.com/sebet/decky-nonsteam-badges
+[submodule "plugins/CapyDeploy"]
+	path = plugins/CapyDeploy
+	url = https://github.com/lobinuxsoft/decky-capydeploy.git
